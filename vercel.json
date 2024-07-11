@@ -11,7 +11,7 @@
     }
   ],
   "functions": {
-    "api/telegram.js": {
+    "server/api/telegram.js": {
       "memory": 1024,
       "maxDuration": 10
     }
